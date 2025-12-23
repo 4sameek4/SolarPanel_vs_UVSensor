@@ -50,10 +50,11 @@ Recall
 F1 Score
 
 ## ✅ Results
-Model	Accuracy
-Logistic Regression	97%
-SVM	96%
-Baseline Model	93%
+| Model                | Accuracy |
+|:--------------------:|:--------:|
+| Logistic Regression  | 97%      |
+| SVM                  | 96%      |
+| Baseline Model       | 93%      |
 
 Logistic Regression achieved the best overall performance with 97% accuracy
 
